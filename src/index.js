@@ -252,3 +252,9 @@ meadia.addEventListener('change', ({ matches }) => {
     Api.restartPagination();
   }
 });
+
+function gitLIVE() {
+  console.log('ГИТ  Живи');
+}
+
+gitLIVE();
